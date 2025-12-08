@@ -12,3 +12,6 @@ I keep doing commits on this branch so it would be pretty interesting to solve t
 
 # Fourth Chapter
 Now we have four chapters in total.
+
+# Fifth Chapter
+So I manage to merge the two branches manually and then delete the dev branch.
