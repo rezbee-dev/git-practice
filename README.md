@@ -15,3 +15,6 @@ Now we have four chapters in total.
 
 # Fifth Chapter
 So I manage to merge the two branches manually and then delete the dev branch.
+
+# Sixth Chapter
+One last commit to complete things
